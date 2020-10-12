@@ -4,15 +4,13 @@
 
 ## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
-- I graduated college with a Bachelor in Computer Applications degree at Pune University (India) in 2014
+- 2014: I graduated from Pune University (India) with a Bachelor in Computer Applications degree.
 
-- I got several jobs that were NOT in the IT field. In the digital marketing field, to be precise. Still involve computers, applications, networks but not coding.
+- 2014-2019: I got several jobs that were NOT in the IT field. In the digital marketing field, to be precise. Still involve computers, applications, networks but not coding. Time passes, but I still feel passionate a lot about programming.
 
-- Time passes, but I still feel passionate a lot about programming.
+- Late 2019: I quit my job and re-learned how to code again. Many things have changed, but luckily, the principles were the same.
 
-- In late 2019, I quit my job and re-learned how to code again. Many things have changed, but luckily, the principles were the same. 
-
-- In 2020, I'm working on my personal project - a travel agency website named Tourino. 
+- 2020: I'm working on my personal project - a travel agency website named Tourino.
 
 - **And now, I'm looking for a Javascript Backend job on NodeJS.**
 
