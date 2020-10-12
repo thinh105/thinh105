@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
-## 👋 Hi there, I'm Thinh Nguyen, a JavaScript developer lives in Hanoi, Vietnam! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+## 👋 Hi, I'm Thinh Nguyen, a JavaScript developer lives in Hanoi, Vietnam! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
 ## 💬 My Story
 
@@ -15,7 +15,7 @@ In 2020, I'm working on my personal project - a travel agency website named Tour
 
 
 
-## ⚡ Something about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+## ⚡ Something about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
 ```javascript
         const thinh105 = {
