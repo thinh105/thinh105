@@ -12,7 +12,7 @@
 
 - 2020:         I'm working on my personal project - a travel agency website named Tourino.
 
-**And now, I'm looking for a Backend job on NodeJS. (It would be awesome if the team is also working with VueJS and MongoDB!) **
+**And now, I'm looking for a Backend job on NodeJS. (It would be awesome if the team is also working with VueJS and MongoDB!)**
 
 
 ## ⚡ Something about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
