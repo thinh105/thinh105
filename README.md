@@ -1,8 +1,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
-## 👋 Hi, I'm Thinh Nguyen, a JavaScript developer lives in Hanoi, Vietnam! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer lives in Hanoi, Vietnam! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
-## 💬 My Story
+## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
 - I graduated college with a Bachelor in Computer Applications degree at Pune University (India) in 2014
 
@@ -72,15 +72,6 @@
 <a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a></p>
 
 These stats above come from <a href="https://github.com/anuraghazra/github-readme-stats">this awesome project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature>
-
-
-## Talking about Personal Stuffs: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
-
-- 💻 I’m currently working on Tourino Project;
-
-- 🌱 I’m currently learning GraphQL and C++; 
-
-- 💬 Ask me about anything, I am happy to help;
 
 ## 📄[My Resume]()
 
