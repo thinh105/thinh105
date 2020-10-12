@@ -26,6 +26,7 @@
           education: [
             {
               university: 'Hanoi University of Science and Technology',
+              groupOfFields: ['Information Technology', 'Electrical', 'Control & Automation', 'Electronics-Telecommunications', 'Biomedical Engineering', 'Math-Informatics'],
               duration: [2010, 2011],
             },            
             {
