@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
-# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer lives in Hanoi, Vietnam! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer who is looking for a Backend job on NodeJS! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
 ## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
@@ -12,7 +12,7 @@
 
 - 2020:       I'm working on my personal project - a travel agency website named Tourino.
 
-- **And now, I'm looking for a Javascript Backend job on NodeJS.**
+- **And now, I'm looking for a Backend job on NodeJS. (It would be awesome if the team is also working with VueJS and MongoDB!) **
 
 
 ## ⚡ Something about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
