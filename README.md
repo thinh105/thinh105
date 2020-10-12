@@ -1,11 +1,26 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
-## 👋 Hi there, I'm Thinh Nguyen, a JavaScript developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+## 👋 Hi there, I'm Thinh Nguyen, a JavaScript developer live in Hanoi, Vietnam! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+
+## 💬 My Story
+
+After graduating college with a Bachelor in Computer Applications degree at Pune University (India) in 2014, I got a job NOT exactly in IT field.
+
+After long time, I 
+
+In late 2019, I re-learned how to code again, I chose Js and learned from FreeCodeCamp, CodersX, Udemy, etc.
+
+In 2020, I'm working on my personal project - a travel agency website named Tourino. 
+
+
+
 
 ## ⚡ Something about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
 ```javascript
- const thinh105 = {
+        const thinh105 = {
+          dob: 'May 10 1992',
+          
           education: [
             {
               university: 'Hanoi University of Science and Technology',
@@ -14,26 +29,35 @@
             
             {
               university: 'Pune University @ Pune - India',
-              degree: 'Bachelor of Computer Applications',
+              degree: 'Bachelor in Computer Applications',
               duration: [2011, 2014],
-            },            
+            },
           ],
 
           language: ['Javascript', 'HTML', 'CSS'],
           
-          tools: [
-            'Node',
-            'Express',
-            'MongoDB',
-            'Mongoose',
-            'Vue',
-            'Vuex',
-            'Vuetify',
-          ],
+          technologies: {
+            backEnd: [
+              'Node',
+              'Express'
+            ],
+            frontEnd: [
+              'Vue',
+              'Vuex',
+              'Vue Router',
+              'Vuetify'
+            ],
+            database: [
+              'MongoDB',
+              'Mongoose'
+            ]
+          },
           
-          futureGoal: ['Vue 3', 'Microservices', 'Docker', 'Jest'],
+          currentFocus: "Javascript BackEnd Developer",
           
-          wannaTry: ['React', 'Deno'],
+          futureGoal: ['Microservices', 'Docker', 'Jest', 'Typescript', 'SQL', 'Vue 3', 'Nuxt'],
+          
+          wannaTry: ['Deno', 'React']
         };
 ```
 
