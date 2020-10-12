@@ -16,8 +16,7 @@
               university: 'Pune University @ Pune - India',
               degree: 'Bachelor of Computer Applications',
               duration: [2011, 2014],
-            },
-            
+            },            
           ],
 
           language: ['Javascript', 'HTML', 'CSS'],
@@ -67,11 +66,11 @@ These stats above come from <a href="https://github.com/anuraghazra/github-readm
 <p align="center">
 <a href="https://www.messenger.com/t/Thinh105">
   <img align="left" alt="Thinh's Facebook Messenger" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/thinh105/">
   <img align="left" alt="Thinh's LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="thinhnv105 @ g m a i l.com/">
+
+<a href="maxiqboy @ g m a i l.com/">
   <img align="left" alt="Thinh's Gma il" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </p>
