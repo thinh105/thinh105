@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
-## 👋 Hi there, I'm Thinh Nguyen, a JavaScript developer live in Hanoi, Vietnam! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+## 👋 Hi there, I'm Thinh Nguyen, a JavaScript developer lives in Hanoi, Vietnam! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 
 ## 💬 My Story
 
@@ -8,7 +8,7 @@ After graduating college with a Bachelor in Computer Applications degree at Pune
 
 After long time, I 
 
-In late 2019, I re-learned how to code again, I chose Js and learned from FreeCodeCamp, CodersX, Udemy, etc.
+In late 2019, I decided to re-learned how to code again, I chose Js and learned from FreeCodeCamp, CodersX, Udemy, etc.
 
 In 2020, I'm working on my personal project - a travel agency website named Tourino. 
 
@@ -25,8 +25,7 @@ In 2020, I'm working on my personal project - a travel agency website named Tour
             {
               university: 'Hanoi University of Science and Technology',
               duration: [2010, 2011],
-            },
-            
+            },            
             {
               university: 'Pune University @ Pune - India',
               degree: 'Bachelor in Computer Applications',
