@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
-## 👋 Hi there, 🏽‍ I'm Thinh Nguyen, a JavaScript developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
+## 👋 Hi there, I'm Thinh Nguyen, a JavaScript developer! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> 
 
 
 
@@ -40,33 +40,33 @@
         };
 ```
 
-## My stats
+## 📊 My stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" /></p>
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinh105" alt="thinh's top langs></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinh105" alt="thinh's top langs" /></p>
                                                                                         
 <p align="center">
-<a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+<a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">These stats above come from this awesome project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature>
 
 
 ## Talking about Personal Stuffs: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
-- 🏽‍💻 I’m currently working on Tourino Project;
+- 💻 I’m currently working on Tourino Project;
 
 - 🌱 I’m currently learning GraphQL and C++; 
 
 - 💬 Ask me about anything, I am happy to help;
 
-## 📝[My Resume]()
+## 📄[My Resume]()
 
 
-##  📫 How to reach me:
-
+## 📫 How to reach me:
+<p align="center">
 <a href="https://www.messenger.com/t/Thinh105">
   <img align="left" alt="Thinh's Facebook Messenger" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
 </a>
@@ -76,7 +76,7 @@
 <a href="thinhnv105 @ g m a i l.com/">
   <img align="left" alt="Thinh's Gma il" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</p>
 
 
 <!--
