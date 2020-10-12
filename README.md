@@ -42,7 +42,11 @@
 
 ## 📊 My stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" /></p>
+<p align="center" justify="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinh105" alt="thinh's top langs" />
+<a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a>
+
+</p>
 
 
 <p align="center">
@@ -51,7 +55,7 @@
 <p align="center">
 <a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">These stats above come from this awesome project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature>
+These stats above come from <a href="https://github.com/anuraghazra/github-readme-stats">this awesome project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature>
 
 
 ## Talking about Personal Stuffs: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
