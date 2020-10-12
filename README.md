@@ -6,7 +6,9 @@
 
 - I graduated college with a Bachelor in Computer Applications degree at Pune University (India) in 2014
 
-- I got several jobs that were NOT in the IT field. Time passes, but I still feel passionate a lot about programming.
+- I got several jobs that were NOT in the IT field. In the digital marketing field, to be precise. Still involve computers, applications, networks but not coding.
+
+- Time passes, but I still feel passionate a lot about programming.
 
 - In late 2019, I quit my job and re-learned how to code again. Many things have changed, but luckily, the principles were the same. 
 
