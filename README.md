@@ -4,15 +4,15 @@
 
 ## 💬 My Story
 
-After graduating college with a Bachelor in Computer Applications degree at Pune University (India) in 2014, I got a job NOT exactly in IT field.
+- I graduated college with a Bachelor in Computer Applications degree at Pune University (India) in 2014
 
-After long time, I 
+- I got several jobs that were NOT in the IT field. Time passes, but I still feel passionate a lot about programming.
 
-In late 2019, I decided to re-learned how to code again, I chose Js and learned from FreeCodeCamp, CodersX, Udemy, etc.
+- In late 2019, I quit my job and re-learned how to code again. Many things have changed, but luckily, the principles were the same. 
 
-In 2020, I'm working on my personal project - a travel agency website named Tourino. 
+- In 2020, I'm working on my personal project - a travel agency website named Tourino. 
 
-
+- **And now, I'm looking for a Javascript Backend job on NodeJS.**
 
 
 ## ⚡ Something about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
@@ -33,7 +33,7 @@ In 2020, I'm working on my personal project - a travel agency website named Tour
             },
           ],
 
-          language: ['Javascript', 'HTML', 'CSS'],
+          code: ['Javascript', 'HTML', 'CSS'],
           
           technologies: {
             backEnd: [
@@ -56,7 +56,7 @@ In 2020, I'm working on my personal project - a travel agency website named Tour
           
           futureGoal: ['Microservices', 'Docker', 'Jest', 'Typescript', 'SQL', 'Vue 3', 'Nuxt'],
           
-          wannaTry: ['Deno', 'React']
+          wannaTry: ['Deno', 'React', 'Svelte']
         };
 ```
 
