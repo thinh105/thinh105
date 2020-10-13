@@ -2,19 +2,6 @@
 
 # 👋 Hi, I'm Thinh Nguyen, a JavaScript developer who is looking for a Backend job on NodeJS! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
-## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
-
-- 2014:         I graduated from Pune University (India) with a Bachelor in Computer Applications degree.
-
-- 2014 - 2019:  I got several jobs that were NOT in the IT field. Time passes, but I still feel passionate a lot about programming.
-
-- Late 2019:    I quit my job and re-learned how to code again. Many things have changed, but luckily, the principles were the same.
-
-- 2020:         I'm working on my personal project - a travel agency website named Tourino.
-
-**And now, I'm looking for a Backend job on NodeJS. (It would be awesome if the team is also working with VueJS and MongoDB!)**
-
-
 ## ⚡ Something about me...  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
 ```javascript
@@ -61,6 +48,18 @@
           wannaTry: ['Deno', 'React', 'Svelte']
         };
 ```
+
+## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
+
+- 2014:         I graduated from Pune University (India) with a Bachelor in Computer Applications degree.
+
+- 2014 - 2019:  I got several jobs that were NOT in the IT field. Time passes, but I still feel passionate a lot about programming.
+
+- Late 2019:    I quit my job and re-learned how to code again. Many things have changed, but luckily, the principles were the same.
+
+- 2020:         I'm working on my personal project - a travel agency website named Tourino.
+
+**And now, I'm looking for a Backend job on NodeJS. (It would be awesome if the team is also working with VueJS and MongoDB!)**
 
 ## 📊 My stats
 
