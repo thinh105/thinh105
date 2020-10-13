@@ -12,9 +12,8 @@
             {
               university: 'Hanoi University of Science and Technology',
               groupOfFields: [
-                'Information Technology',
-                'Electrical',
-                'Control & Automation',
+                'Information Technology', 
+                'Electrical', 'Control & Automation',
                 'Electronics-Telecommunications',
                 'Math-Informatics'
               ],
