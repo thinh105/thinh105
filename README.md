@@ -52,10 +52,12 @@
 
 **As Linus Torvalds said "Talk is cheap ...", so here is my code!**
 
-<p  align="center">
+<p>
 <a href="https://github.com/thinh105/Tourino-Backend-Nodejs">
         <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Backend-Nodejs&show_owner=true" alt="Tourino backend Nodejs" title="Tourino backend Nodejs" /></a>
+</p>
 
+<p>
 <a href="https://github.com/thinh105/Tourino-Frontend-VueJS">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Frontend-VueJS&show_owner=true" alt="Tourino Frontend VueJS" title="Tourino Frontend VueJS" /></a>
 </p>
