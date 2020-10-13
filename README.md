@@ -61,15 +61,9 @@
 </p>
 
 
-<p align="center">
-<a href="https://github.com/thinh105/Tourino-Scraper-Nodejs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Scraper-Nodejs&show_owner=true" alt="Tourino Scraper Nodejs" title="Tourino Scraper Nodejs" /></a>
+<p>
+<a href="https://github.com/thinh105/Tourino-Scraper-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Scraper-Nodejs&show_owner=true" alt="Tourino Scraper Nodejs" title="Tourino Scraper Nodejs" /></a>
 </p>
-
-
-
-
-
-
 
 ## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
