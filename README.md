@@ -88,17 +88,21 @@ These stats was generated using <a href="https://github.com/anuraghazra/github-r
 
 
 ## 📫 How to reach me:
-<p align="center">
+
+
 <a href="https://www.messenger.com/t/Thinh105">
-  <img align="center" width="80px" style="padding: 10px;" alt="Thinh's Facebook Messenger" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
+  <img align="left" alt="Thinh's Facebook Messenger" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thinh105/">
-  <img align="center" width="80px" alt="Thinh's LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left"  alt="Thinh's LinkdeIN" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:maxiqboy @ g m a i l.com/">
-  <img align="center" width="80px" alt="Thinh's Gma il" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left"  alt="Thinh's Gma il" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</p>
+<a href="callto:091 682 7859">
+  <img align="left" alt="Thinh's Phone" width="80px" src="https://cdn.jsdelivr.net/npm/@mdi/svg@5.6.55/svg/cellphone.svg"/>
+</a>
+
 
 
 
