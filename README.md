@@ -48,7 +48,7 @@
         };
 ```
 
-## ⚡ About Tourino - my Travel Agency website project <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+## ⚡ About my personal project:  Tourino - the Travel Agency website <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
 **As Linus Torvalds said "Talk is cheap...", so here is my `code`!**
 
