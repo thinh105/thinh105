@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"> <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img  alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer! <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img  alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 
 
 <p align="center">
@@ -48,6 +48,27 @@
         };
 ```
 
+## ⚡ About Tourino - my Travel Agency website project <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+
+<p align="center">
+<a href="https://github.com/thinh105/Tourino-Backend-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Backend-Nodejs" alt="Tourino backend Nodejs" title="Tourino backend Nodejs" /></a>
+
+<a href="https://github.com/thinh105/Tourino-Scraper-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Scraper-Nodejs" alt="Tourino Scraper Nodejs" title="Tourino Scraper Nodejs" /></a>
+
+</p>
+
+
+
+
+https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Scraper-Nodejs
+
+https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Frontend-VueJS
+
+
+
+
+
+
 ## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
 ```
@@ -87,7 +108,7 @@
 
 <p align="center"> These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature.</p>
 
-## 📄[My Resume]()
+## 📝 [My Resume]()
 
 
 ## 📞 Contact me:
