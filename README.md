@@ -103,6 +103,10 @@ These stats was generated using <a href="https://github.com/anuraghazra/github-r
   <img align="left" alt="Thinh's Phone" width="80px" src="https://cdn.jsdelivr.net/npm/@mdi/svg@5.6.55/svg/cellphone.svg" />
 </a>
 
+<a href="tel:5551234567"><img src="callme.jpg" /></a>
+
+<a href="callto:5551234567"><img src="callme.jpg" /></a>
+
 
 
 
