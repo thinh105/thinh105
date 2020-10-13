@@ -39,7 +39,8 @@
           technologies: {
             backEnd: [
               'Node',
-              'Express'
+              'Express',
+              'Puppeteer'
             ],
             frontEnd: [
               'Vue',
