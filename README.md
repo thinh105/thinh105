@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer! <img align="left" alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img align="left" alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img align="left" alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
@@ -65,10 +66,12 @@
         + I'm working on my personal project - a travel agency website named Tourino.
 ```
 
-**And now, I'm looking for a Backend job on NodeJS. (It would be awesome if the team is also working with VueJS and MongoDB!)**
+**And now, I'm looking for a Backend job on NodeJS <img align="left" alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.**   
+**(It would be awesome if the team is also working with VueJS  <img align="left" alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img align="left" alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+!)**
 
 
-## 📊 My stats
+## 📊 My stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
 <p align="center" justify="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" /></p>
 
@@ -92,7 +95,7 @@ These stats was generated using <a href="https://github.com/anuraghazra/github-r
 <a href="https://www.linkedin.com/in/thinh105/">
   <img align="left" alt="Thinh's LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-<a href="maxiqboy @ g m a i l.com/">
+<a href="mailto:maxiqboy @ g m a i l.com/">
   <img align="left" alt="Thinh's Gma il" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </p>
