@@ -99,7 +99,7 @@ These stats was generated using <a href="https://github.com/anuraghazra/github-r
 <a href="mailto:maxiqboy @ g m a i l.com/">
   <img align="left"  alt="Thinh's Gma il" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="tel:091 682 7859">
+<a href="tel:0916827859">
   <img align="left" alt="Thinh's Phone" width="80px" src="https://cdn.jsdelivr.net/npm/@mdi/svg@5.6.55/svg/cellphone.svg"/>
 </a>
 
