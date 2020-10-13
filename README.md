@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thinh Nguyen,
 
-# a JavaScript developer who is looking for a Backend job on NodeJS! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+ **a JavaScript developer who is looking for a Backend job on NodeJS!** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
 
