@@ -65,10 +65,12 @@
 - 2020:
         + I'm working on my personal project - a travel agency website named Tourino.
 ```
-
-**And now, I'm looking for a Backend job on NodeJS <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.**   
-**(It would be awesome if the team is also working with VueJS  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-!)**
+<p align="center">
+        
+<b>And now, I'm looking for a Backend job on NodeJS</b> <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.   
+<b>(It would be awesome if the team is also working with VueJS  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+!)**</b>
+</p>
 
 
 ## 📊 My stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
