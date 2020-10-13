@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer! <img align="left" alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img align="left" alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img align="left" alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer! <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img  alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thinh105.thinh105) 
@@ -66,8 +66,8 @@
         + I'm working on my personal project - a travel agency website named Tourino.
 ```
 
-**And now, I'm looking for a Backend job on NodeJS <img align="left" alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.**   
-**(It would be awesome if the team is also working with VueJS  <img align="left" alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img align="left" alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+**And now, I'm looking for a Backend job on NodeJS <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.**   
+**(It would be awesome if the team is also working with VueJS  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 !)**
 
 
@@ -90,13 +90,13 @@ These stats was generated using <a href="https://github.com/anuraghazra/github-r
 ## 📫 How to reach me:
 <p align="center">
 <a href="https://www.messenger.com/t/Thinh105">
-  <img align="left" alt="Thinh's Facebook Messenger" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
+  <img alt="Thinh's Facebook Messenger" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/messenger.svg" />
 
 <a href="https://www.linkedin.com/in/thinh105/">
-  <img align="left" alt="Thinh's LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Thinh's LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <a href="mailto:maxiqboy @ g m a i l.com/">
-  <img align="left" alt="Thinh's Gma il" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img alt="Thinh's Gma il" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </p>
 
