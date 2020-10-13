@@ -85,7 +85,7 @@
 
 <p align="center" justify="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" /></p>
 
-These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature.
+<p align="center"> These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature.</p>
 
 ## 📄[My Resume]()
 
