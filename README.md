@@ -40,7 +40,7 @@
             ]
           },
           
-          currentFocus: "Javascript BackEnd Developer",
+          lookingFor: "Backend job on NodeJS",
           
           futureGoal: ['Microservices', 'Docker', 'Jest', 'Typescript', 'SQL', 'Vue 3', 'Nuxt'],
           
