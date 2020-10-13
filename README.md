@@ -11,12 +11,6 @@
           education: [
             {
               university: 'Hanoi University of Science and Technology',
-              groupOfFields: [
-                'Information Technology', 
-                'Electrical', 'Control & Automation',
-                'Electronics-Telecommunications',
-                'Math-Informatics'
-              ],
               duration: [2010, 2011],
             },            
             {
@@ -32,7 +26,6 @@
             backEnd: [
               'Node',
               'Express',
-              'Puppeteer'
             ],
             frontEnd: [
               'Vue',
