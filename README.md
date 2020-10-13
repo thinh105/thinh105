@@ -50,7 +50,7 @@
 
 ## ⚡ About Tourino - my Travel Agency website project <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
-**As Linus Torvalds said "Talk is cheap...", so here is my code!**
+**As Linus Torvalds said "Talk is cheap...", so here is my `code`!**
 
 <p>
 <a href="https://github.com/thinh105/Tourino-Backend-Nodejs">
