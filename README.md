@@ -72,7 +72,7 @@
 <p align="center">
 <a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a></p>
 
-These stats above come from <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature>
+These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature.
 
 ## 📄[My Resume]()
 
