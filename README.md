@@ -72,8 +72,8 @@
         + I graduated from Pune University (India) with a Bachelor in Computer Applications degree.
 
 - 2014 - 2019:
-        + I got several jobs that were NOT in the IT field.
-        + Time passes, but I still feel passionate a lot about programming.
+        + I got several jobs that were NOT in the IT field, 
+        + Time passes, and I still feel passionate a lot about programming.
 
 - Late 2019:
         + I quit my job and re-learned how to code again.
@@ -116,7 +116,7 @@
 <a href="https://www.linkedin.com/in/thinh105/">
   <img align="left" alt="Thinh's LinkdeIN" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:maxiqboy @ g m a i l.com/">
+<a href="mailto:maxiqboy @ gmail . com/">
   <img align="left" alt="Thinh's Gma il" width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="091 682 7859">
