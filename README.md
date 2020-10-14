@@ -9,18 +9,6 @@
         const thinh105 = {
           dob: 'May 10 1992',
           
-          education: [
-            {
-              university: 'Hanoi University of Science and Technology',
-              duration: [2010, 2011],
-            },            
-            {
-              university: 'Pune University @ Pune - India',
-              degree: 'Bachelor in Computer Applications',
-              duration: [2011, 2014],
-            },
-          ],
-
           code: ['Javascript', 'HTML', 'CSS'],
           
           technologies: {
@@ -44,7 +32,19 @@
           
           futureGoal: ['Microservices', 'Docker', 'Jest', 'Typescript', 'SQL', 'Vue 3', 'Nuxt'],
           
-          wannaTry: ['Deno', 'React', 'Svelte']
+          wannaTry: ['Deno', 'React', 'Svelte'],
+          
+          education: [
+            {
+              university: 'Hanoi University of Science and Technology',
+              duration: [2010, 2011],
+            },            
+            {
+              university: 'Pune University @ Pune - India',
+              degree: 'Bachelor in Computer Applications',
+              duration: [2011, 2014],
+            },
+          ],
         };
 ```
 
