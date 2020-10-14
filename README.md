@@ -65,33 +65,6 @@
 <a href="https://github.com/thinh105/Tourino-Scraper-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Scraper-Nodejs&show_owner=true" alt="Tourino Scraper Nodejs" title="Tourino Scraper Nodejs" /></a>
 </p>
 
-## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
-
-```
-- 2014:
-        + I graduated from Pune University (India) with a Bachelor in Computer Applications degree.
-
-- 2014 - 2019:
-        + I got several jobs that were NOT in the IT field, 
-        + Time passes, and I still feel passionate a lot about programming.
-
-- Late 2019:
-        + I quit my job and re-learned how to code again.
-        + Many things have changed, but luckily, the principles were the same.
-
-- 2020:
-        + I'm working on my personal project - a travel agency website named Tourino.
-```
-<p align="center">
-<b>And now, I'm looking for a Backend job on NodeJS</b> <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.
-</p>
-
-<p align="center">
-<b>(It would be awesome if the team is also working with VueJS  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-!)</b>
-</p>
-
-
 ## 📊 My stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
 <p align="center">
@@ -103,6 +76,25 @@
 <p align="center" justify="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" /></p>
 
 <p align="center"> These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature.</p>
+
+## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
+
+- 2014:
+  - I graduated from Pune University (India) with a Bachelor in Computer Applications degree.
+
+- 2014 - 2019:
+  - I got several jobs that were NOT in the IT field.
+  - Time passes, but I still feel passionate a lot about programming.
+
+- Late 2019:
+  - I quit my job and re-learned how to code again.
+  - Many things have changed, but luckily, the principles were the same.
+
+- 2020:
+  - I'm working on my personal project - a travel agency website named Tourino.
+  - And now, I'm looking for a Backend job on NodeJS <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.
+  - (It would be awesome if the team is also working with VueJS<img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+    )
 
 ## 📝 [My Resume]()
 
