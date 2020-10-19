@@ -100,7 +100,7 @@
   - (It would be awesome if the team is also working with VueJS<img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
     )
 
-## 📝 [My Resume](https://github.com/thinh105/thinh105/raw/main/Thinh.pdf)
+## 📝 [My Resume](https://github.com/thinh105/thinh105/raw/main/ThinhNguyen%20-%20CV%20-%20Junior%20NodeJS%20Developer.pdf)
 
 
 ## 📞 Contact me:
