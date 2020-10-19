@@ -30,7 +30,7 @@
           
           lookingFor: "Backend job on NodeJS",
           
-          futureGoal: ['Microservices', 'Docker', 'Jest', 'Typescript', 'SQL', 'Vue 3', 'Nuxt'],
+          futureGoal: ['Microservices', 'Design Pattern', 'Docker', 'Jest', 'Typescript', 'SQL', 'Vue 3', 'Nuxt'],
           
           wannaTry: ['Deno', 'React', 'Svelte'],
           
