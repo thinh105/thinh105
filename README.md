@@ -88,7 +88,7 @@
   - Graduated from Pune University (India) with a Bachelor in Computer Applications degree.
 
 - 2014 - 2019:
-  - Got several freelancer jobs as webmaster/designer in some small MMO teams.
+  - Got several jobs as webmaster/IT technician in some small MMO teams.
 
 - Late 2019 - 2020:
   - Quit the job and followed the web developer path.
