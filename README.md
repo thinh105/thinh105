@@ -50,7 +50,7 @@
 
 ## 📊 My stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
 
-<p align="center">My Stack Overflow<p>
+<p align="center">My Stack Overflow <a href="https://stackoverflow.com/users/2620022/thinh-nv?tab=profile"<b>(Top 5% this year)</b></a><p>
 <p align="center">
 <a href="https://stackoverflow.com/users/2620022/thinh-nv"><img src="https://stackoverflow.com/users/flair/2620022.png" alt="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Thinh NV at Stack Overflow, Q&amp;A for professional and enthusiast programmers" /></a></p>
 
