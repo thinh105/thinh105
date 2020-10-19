@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thinh Nguyen, a JavaScript developer! <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img  alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
+# 👋 Hi, I'm Thinh Nguyen, a Junior JavaScript developer! <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />  <img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> <img  alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 
 
 <p align="center">
