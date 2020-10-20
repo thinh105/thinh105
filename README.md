@@ -5,8 +5,6 @@
 
 ```javascript
 const thinh105 = {
-  dob: "May 10 1992",
-
   code: ["Javascript", "HTML", "CSS"],
 
   technologies: {
