@@ -56,11 +56,41 @@ const thinh105 = {
 
 <p align="center" justify="center"> <img src="https://github-readme-stats.vercel.app/api?username=thinh105&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="thinh's github stats" /></p>
 
-<p align="center"> These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github"> StackOverFlow Flair Feature.</p>
+<p align="center"> These stats was generated using <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats project</a> and <a href="https://stackoverflow.com/questions/63376500/how-do-i-add-my-stack-overflow-reputation-as-a-live-badge-on-github">StackOverFlow Flair Feature.</a></p>
 
-## ⚡ About my personal project: Tourino - the Travel Agency website <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+## ⚡ About my personal project <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" />
+
+<p align="center">
+<img src="Tourino-banner.png" />
+</p>
+
+Tourino is a fullstack Travel Agency Website powered by NodeJS, ExpressJS, MongoDB, VueJS.
+
+## Live Demo:
+
+## https://tourino.netlify.app/
+
+> **Notice:**
+
+**It will take a while ( around 10-15s) to wait and fetch data when you visit my Tourino website the first time.**
+
+Because I run the Tourino's backend under the free package on Heroku, my API server will sleep after 30m of inactivity.
+
+I want to play fair and will not use some tricks to abuse their server every 29 minutes just to keep my small project from sleeping.
+
+It's kind of a feature, not a bug! 😅 😆
+
+## Application Architecture Diagram
+
+<p align="center">
+<img src="tourino-diagram.png" />
+</p>
+
+## Code Base
 
 **As Linus Torvalds said "Talk is cheap...", so here is my `code`!**
+
+It contains three parts (`Tourino Importing Tool` is inside the `Tourino Backend Nodejs`):
 
 <p>
 <a href="https://github.com/thinh105/Tourino-Backend-Nodejs">
