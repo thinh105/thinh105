@@ -119,8 +119,7 @@ It contains three parts (`Tourino Importing Tool` is inside the `Tourino Backend
 
 - Now
   - I'm working on my personal project - a travel agency website named Tourino.
-  - And now, I'm looking for a Backend job on NodeJS <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />. (It would be awesome if the team is also working with VueJS<img alt="VueJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> and MongoDB <img alt="MongoDB's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-    )
+  - And now, I'm looking for a Backend job on NodeJS <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.
 
 ## 📝 [My Resume](https://github.com/thinh105/thinh105/raw/main/ThinhNguyen%20-%20CV%20-%20Junior%20NodeJS%20Developer.pdf)
 
