@@ -115,7 +115,6 @@ It contains three parts (`Tourino Importing Tool` is inside the `Tourino Backend
 - Late 2019 - 2020:
 
   - Quit the job and followed the web developer path.
-  - I self-taught JS, Node.js, Vue.js in several months.
 
 - Now
   - I'm working on my personal project - a travel agency website named Tourino.
