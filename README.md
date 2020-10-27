@@ -70,7 +70,7 @@ Tourino is a fullstack Travel Agency Website powered by NodeJS, ExpressJS, Mongo
 
 > **Notice:**
 
-**It will take a while ( around 10-15s) to wait and fetch data when you visit my Tourino website the first time.**
+**It will take a while ( around 10-15s) to wait and fetch data when you visit my website the first time.**
 
 Because I run the Tourino's backend under the free package on Heroku, my API server will sleep after 30m of inactivity.
 
