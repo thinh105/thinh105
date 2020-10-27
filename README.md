@@ -117,7 +117,7 @@ It contains three parts (`Tourino Importing Tool` is inside the `Tourino Backend
   - Quit the job and followed the web developer path.
 
 - Now
-  - I'm working on my personal project - a travel agency website named Tourino.
+  - I'm working on my [personal project - a travel agency website named Tourino](https://github.com/thinh105#-about-my-personal-project-).
   - And now, I'm looking for a Backend job on NodeJS <img alt="NodeJS's logo" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />.
 
 ## 📝 [My Resume](https://github.com/thinh105/thinh105/raw/main/ThinhNguyen%20-%20CV%20-%20Junior%20NodeJS%20Developer.pdf)
