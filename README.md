@@ -64,11 +64,9 @@ const thinh105 = {
 
 Tourino is a fullstack Travel Agency Website powered by NodeJS, ExpressJS, MongoDB, VueJS.
 
-## Live Demo:
+## 🎉 Live Demo: https://tourino.netlify.app/
 
-## https://tourino.netlify.app/
-
-> **Notice:**
+> **⛔Notice:**
 
 **It will take a while ( around 10-15s) to wait and fetch data when you visit my website the first time.**
 
@@ -78,13 +76,13 @@ I want to play fair and will not use some tricks to abuse their server every 29 
 
 It's kind of a feature, not a bug! 😅 😆
 
-## Application Architecture Diagram
+## 📋 Application Architecture Diagram
 
 <p align="center">
 <img src="tourino-diagram.png" />
 </p>
 
-## Code Base
+## 💻 Code Base
 
 **As Linus Torvalds said "Talk is cheap...", so here is my `code`!**
 
