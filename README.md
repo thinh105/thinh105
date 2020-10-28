@@ -84,9 +84,7 @@ It's kind of a feature, not a bug! 😅 😆
 
 ## 💻 Code Base
 
-**As Linus Torvalds said "Talk is cheap...", so here is my `code`!**
-
-It contains three parts (`Tourino Importing Tool` is inside the `Tourino Backend Nodejs`):
+It contains three parts (`Tourino Importing Tool` is inside the `Tourino-Backend-NodeJS`):
 
 <p>
 <a href="https://github.com/thinh105/Tourino-Backend-Nodejs">
