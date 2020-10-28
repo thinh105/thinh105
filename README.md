@@ -66,7 +66,7 @@ Tourino is a fullstack Travel Agency Website powered by NodeJS, ExpressJS, Mongo
 
 ## 🎉 Live Demo: https://tourino.netlify.app/
 
-> **⛔Notice:**
+> **⛔ Notice:**
 
 **It will take a while ( around 10-15s) to wait and fetch data when you visit my website the first time.**
 
@@ -100,7 +100,7 @@ It contains three parts (`Tourino Importing Tool` is inside the `Tourino Backend
 <a href="https://github.com/thinh105/Tourino-Scraper-Nodejs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thinh105&repo=Tourino-Scraping-Nodejs&show_owner=true" alt="Tourino Scraper Nodejs" title="Tourino Scraper Nodejs" /></a>
 </p>
 
-## 💬 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
+## 📈 My Story <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
 - 2014:
 
