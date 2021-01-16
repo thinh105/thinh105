@@ -9,11 +9,9 @@ const thinh105 = {
 
   technologies: {
     backEnd: ["Node", "Express"],
-    frontEnd: ["Vue", "Vuex", "Vue Router", "Vuetify"],
+    frontEnd: ["React", "Mobx", "Vue", "Vuex", "Vue Router", "Vuetify"],
     database: ["MongoDB", "Mongoose"],
   },
-
-  lookingFor: "Backend job on NodeJS",
 
   futureGoal: [
     "Microservices",
