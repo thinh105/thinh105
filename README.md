@@ -5,11 +5,11 @@
 
 ```javascript
 const thinh105 = {
-  code: ["Javascript", "HTML", "CSS"],
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
 
   technologies: {
     backEnd: ["Node", "Express"],
-    frontEnd: ["React", "Mobx", "Vue", "Vuex", "Vue Router", "Vuetify"],
+    frontEnd: ["React", "Mobx", "Vue", "Vuex", "Vuetify"],
     database: ["MongoDB", "Mongoose"],
   },
 
@@ -18,13 +18,11 @@ const thinh105 = {
     "Design Pattern",
     "Docker",
     "Jest",
-    "Typescript",
     "SQL",
-    "Vue 3",
-    "Nuxt",
+    "Next",
   ],
 
-  wannaTry: ["Deno", "React", "Svelte"],
+  wannaTry: ["Vue 3", "Nuxt", "Deno", "Svelte"],
 
   education: [
     {
