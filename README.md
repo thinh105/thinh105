@@ -23,6 +23,13 @@ const thinh105 = {
   ],
 
   wannaTry: ["Vue 3", "Nuxt", "Deno", "Svelte"],
+  
+  jobs: [
+    {
+    company: CMC Global - DU18
+    title: Junior Software Enginee,
+    }
+  ],
 
   education: [
     {
