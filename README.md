@@ -26,8 +26,9 @@ const thinh105 = {
   
   jobs: [
     {
-    company: CMC Global - DU18
-    title: Junior Software Enginee,
+    company: "CMC Global - DU18"
+    title: "Junior Software Enginee",
+    duration: "Nov 2020 - Now"
     }
   ],
 
